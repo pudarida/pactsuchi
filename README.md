@@ -4,6 +4,8 @@ A Kemono Friends fan-game.
 
 Art by [Bobston](https://twitter.com/kingBobston)
 
+ProggyFont by [Tristan Grimmer](http://upperbounds.net/)
+
 ## To run distribution
 
 To build, be sure you have [node](http://nodejs.org) installed. Clone the project:
@@ -54,5 +56,5 @@ Note that you may have to edit the file `Gruntfile.js` if you need to better dic
 
 -------------------------------------------------------------------------------
 Copyright (C) 2011 - 2018 Rida Antoinette Eusebio <pudarida@gmail.com>
+
 Licensed under the [MIT License](/LICENSE)
-ProggyFont by [Tristan Grimmer](http://upperbounds.net/)
